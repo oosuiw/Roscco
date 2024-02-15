@@ -1,0 +1,17 @@
+std_msgs/Header header
+float64 r_raw_rad
+float64 r_rad
+float64 y_raw_rad
+float64 y_rad
+float64 y_rps
+float64 e_rad
+float64 u_fb
+float64 u_fb_p
+float64 u_fb_d
+float64 u_fb_i
+float64 u_dob
+float64 u_bas
+float64 r_rps
+float64 e_rps
+float64 u_dmd
+float64 var

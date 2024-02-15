@@ -1,0 +1,5 @@
+std_msgs/Header header
+float64 longitudinal_velocity
+float64 lateral_velocity
+float64 heading_rate
+
